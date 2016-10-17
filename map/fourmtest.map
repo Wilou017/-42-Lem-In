@@ -1,0 +1,15 @@
+#comment
+3
+##start
+Salle1 0 0
+Salle4 0 0
+Salle5 0 0
+##end
+Salle2 0 0
+Salle1-Salle5
+Salle2-Salle1
+Salle4-Salle5
+Salle5-Salle2
+# 1--5--4
+#  \ |
+#    2
